@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }}</title>
+    <link
+      rel="icon"
+      type="image/png"
+      href="{{ '/assets/img/Happy-Evolution-AOT-Logo.png' | relative_url }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/style.css' | relative_url }}"
+    />
+  </head>
+  <body>
+    <nav class="navbar">
+      <ul class="nav-links">
+        <li><a href="{{ '/' | relative_url }}" class="nav-link">Home</a></li>
+        <li>
+          <a href="{{ '/#projects' | relative_url }}" class="nav-link"
+            >Projects</a
+          >
+        </li>
+      </ul>
+    </nav>
+    <div class="container">
+      {% if page.thumbnail %}
+      <div class="project-hero">
+        <img
+          src="{{ page.thumbnail | relative_url }}"
+          alt="{{ page.title }}"
+          class="project-thumbnail"
+        />
+      </div>
+      {% endif %} {{ content }}
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
