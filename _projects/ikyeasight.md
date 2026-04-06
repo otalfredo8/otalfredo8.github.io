@@ -41,7 +41,7 @@ This project provides a bridge between Odoo 19 and advanced analytics capabiliti
 ![Completed Coordinates & Map Rendering](/assets/img/map-rendering.png)
 ![Included Report](/assets/img/report.png)
 ![Complet Report per Brand](/assets/img/complete-report-per-brand.png)
-![Map Klustering](/assets/img/maps-klustering.png)
+![Map Klustering](/assets/img/map-klustering.png)
 
 ## Links
 
