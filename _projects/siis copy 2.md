@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Smart Inventory Ingest System (SIIS)
-description: AI-powered inventory automation for Odoo 19.
+description: "IN PROGRESS: AI-powered inventory automation for Odoo 19."
 category: AI/Automation
 thumbnail: /assets/img/photoboot.png
 technologies: [FastAPI, OpenCV, Docker, Odoo]
