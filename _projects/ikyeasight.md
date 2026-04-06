@@ -35,6 +35,13 @@ This project provides a bridge between Odoo 19 and advanced analytics capabiliti
 ## Demo & Screenshots
 
 ![IKYEA Sight Dashboard](/assets/img/ikyeasight_streamlite.png)
+![Testing Database Connection](/assets/img/db-connection-test.png)
+![Completed DB Connection Test](/assets/img/db-connection.png)
+![Generating Coordinates](/assets/img/coordinates.png)
+![Completed Coordinates & Map Rendering](/assets/img/map-rendering.png)
+![Included Report](/assets/img/report.png)
+![Complet Report per Brand](/assets/img/complete-report-per-brand.png)
+![Map Klustering](/assets/img/maps-klustering.png)
 
 ## Links
 
