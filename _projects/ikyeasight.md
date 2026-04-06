@@ -34,23 +34,21 @@ This project provides a bridge between Odoo 19 and advanced analytics capabiliti
 
 ## Demo & Screenshots
 
-<div style="text-align: center;">
+<img src="/assets/img/ikyeasight_streamlite.png" alt="IKYEA Sight Dashboard" style="width: 100%; max-width: 1200px;">
 
-![IKYEA Sight Dashboard](/assets/img/ikyeasight_streamlite.png)
+<img src="/assets/img/db-connection-test.png" alt="Testing Database Connection" style="width: 100%; max-width: 1200px;">
 
-![Testing Database Connection](/assets/img/db-connection-test.png)
+<img src="/assets/img/db-connection.png" alt="Completed DB Connection Test" style="width: 100%; max-width: 1200px;">
 
-![Completed DB Connection Test](/assets/img/db-connection.png)
+<img src="/assets/img/coordinates.png" alt="Generating Coordinates" style="width: 100%; max-width: 1200px;">
 
-![Generating Coordinates](/assets/img/coordinates.png)
+<img src="/assets/img/map-rendering.png" alt="Completed Coordinates & Map Rendering" style="width: 100%; max-width: 1200px;">
 
-![Completed Coordinates & Map Rendering](/assets/img/map-rendering.png)
+<img src="/assets/img/report.png" alt="Included Report" style="width: 100%; max-width: 1200px;">
 
-![Included Report](/assets/img/report.png)
+<img src="/assets/img/complete-report-per-brand.png" alt="Complet Report per Brand" style="width: 100%; max-width: 1200px;">
 
-![Complet Report per Brand](/assets/img/complete-report-per-brand.png)
-
-![Map Klustering](/assets/img/map-klustering.png)
+<img src="/assets/img/map-klustering.png" alt="Map Klustering" style="width: 100%; max-width: 1200px;">
 
 </div>
 
