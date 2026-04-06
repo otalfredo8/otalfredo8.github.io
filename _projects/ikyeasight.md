@@ -1,19 +1,43 @@
 ---
 layout: page
 title: IKYEA Sight
-description: Brief description here
+description: Intelligent data analysis and visualization platform for Odoo ERP systems
 category: Odoo Data Analysis
 thumbnail: /assets/img/ikyeasight_streamlite.png
-technologies: [Tech1, Tech2, Tech3]
+technologies: [Python, Streamlit, PostgreSQL, FastAPI, Nginx]
 ---
 
-### The Challenge
+## Overview
 
-Manual data entry in retail and medical inventories is slow and error-prone.
+**IKYEA Sight** is an intelligent data analysis and visualization platform designed to enhance Odoo ERP workflows with real-time insights, automated data processing, and intuitive dashboards.
 
-### My Solution
+## Purpose
 
-I developed SIIS to use **Computer Vision (Frigate)** to identify products and automatically update **Odoo 19** via a FastAPI bridge.
+This project provides a bridge between Odoo 19 and advanced analytics capabilities, enabling businesses to:
 
-- **Status:** In active development.
-- **Stack:** Python, PostgreSQL, Nginx.
+- Visualize complex inventory and operational data
+- Automate repetitive data analysis tasks
+- Generate actionable insights for decision-making
+- Reduce manual data entry and improve accuracy
+
+## Key Technologies
+
+- **Python** — Core application logic
+- **Streamlit** — Interactive web-based dashboards
+- **PostgreSQL** — Data persistence and querying
+- **FastAPI** — RESTful API bridge to Odoo
+- **Nginx** — Reverse proxy and server configuration
+
+## Project Status
+
+🔄 **In active development**
+
+## Demo & Screenshots
+
+![IKYEA Sight Dashboard](/assets/img/ikyeasight_streamlite.png)
+
+## Links
+
+**[View Full Project on GitHub](https://github.com/otalfredo8/ikyeasight)** — Source code, documentation, and setup instructions
+
+_For complete documentation, installation guide, and development setup, visit the repository's README._
